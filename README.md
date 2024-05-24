@@ -19,9 +19,10 @@ Before you begin, make sure you have the following installed:
 Follow these steps to get your Pet Shop DApp up and running:
 
 1. Clone the Repository
+```
 git clone https://github.com/Usman554433/pet-shop-tutorial.git
 cd pet-shop-tutorial
-
+```
 2. Install Dependencies
 npm install
 
