@@ -24,18 +24,26 @@ git clone https://github.com/Usman554433/pet-shop-tutorial.git
 cd pet-shop-tutorial
 ```
 2. Install Dependencies
+```
 npm install
+```
 
-3. Compile the Smart Contracts
+4. Compile the Smart Contracts
+```
 truffle compile
+```
 
-4. Deploy the Smart Contracts
+5. Deploy the Smart Contracts
 Make sure Ganache is running, then deploy your contracts:
+```
 truffle migrate
+```
 
-5. Run the DApp
+6. Run the DApp
 Start the local server to run your DApp:
+```
 npm run dev
+```
 
 ## 📚 Tutorial Details
 The tutorial covers the following key aspects:
