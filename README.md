@@ -74,8 +74,7 @@ This project is licensed under the MIT License.
 ## 💬 Contact
 If you have any questions, feel free to reach out:
 
-- Email: youremail@example.com
-- Twitter: @yourtwitterhandle
+- Email: urusman543@gmail.com
 Embark on your journey to mastering Ethereum DApp development with this engaging Pet Shop Tutorial! 🐕🐈✨
 
 Check out the tutorial on the Truffle website for more details.
